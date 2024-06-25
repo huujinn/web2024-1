@@ -1,4 +1,4 @@
-alert('Hello, Osamu!');
+alert('Hello, Takumi!');
 
 alert(1+1);
 
